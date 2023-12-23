@@ -44,7 +44,7 @@ The data set includes variables such as Customer ID, Gender, Orders, and 35 feat
     - Summarize key findings and insights from the analysis.
 
 
-## Tools Used:
+## Tools Used
 
  1. **_Python_**
     -  A versatile programming language widely used in data science and machine learning.
